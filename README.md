@@ -1,6 +1,6 @@
 # Fortnite-EFI-External
 Current features:
-# Updated to 11/19/22
+# FUD | Updated | 4/1/2023
 - Memory Aimbot
 - Silent Aimbot
 - Visuals
